@@ -1,0 +1,13 @@
+Required m-files:
+/Users/mcaetano/OneDrive/MATLAB/M Caetano/DSP/SOLA-FS/olafs.m
+/Users/mcaetano/OneDrive/MATLAB/M Caetano/DSP/SOLA-FS/soffs.m
+/Users/mcaetano/OneDrive/MATLAB/M Caetano/DSP/SOLA-FS/solafs.m
+/Users/mcaetano/OneDrive/MATLAB/M Caetano/DSP/_Resources/cfw.m
+/Users/mcaetano/OneDrive/MATLAB/M Caetano/DSP/_Resources/f2s.m
+/Users/mcaetano/OneDrive/MATLAB/M Caetano/DSP/_Resources/isevenl.m
+/Users/mcaetano/OneDrive/MATLAB/M Caetano/DSP/_Resources/lhw.m
+/Users/mcaetano/OneDrive/MATLAB/M Caetano/DSP/_Resources/nframes.m
+/Users/mcaetano/OneDrive/MATLAB/M Caetano/DSP/_Resources/rhw.m
+/Users/mcaetano/OneDrive/MATLAB/M Caetano/DSP/_Test/test_solafs_tsm.m
+Required MATLAB Toolboxes:
+MATLAB
