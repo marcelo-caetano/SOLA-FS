@@ -6,4 +6,4 @@ Run the Matlab script 'test_solafs_tsm.m'
 The file 'test_solafs_tsm_dependencies.txt' lists all file dependencies.
 
 ## Acknowledgements
-This work is financed by National Funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia within project: UID/EEA/50014/2019 and grant SFRH/BPD/115685/2016.
+This work is financed by National Funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia within grant SFRH/BPD/115685/2016.
